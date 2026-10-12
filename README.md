@@ -21,21 +21,21 @@
 
 <div align="center">
   
-  ![SQL](https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=SQL)
-  ![ClickHouse](https://img.shields.io/badge/ClickHouse-white?logo=ClickHouse&style=for-the-badge)
-  ![Redash](https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge)
-  ![Python](https://img.shields.io/badge/python-white?logo=python&style=for-the-badge)
-  ![Pandas](https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge)
-  ![Numpy](https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue&style=for-the-badge)
-  ![Plotly](https://img.shields.io/badge/plotly-white?logo=plotly&logoColor=blue&style=for-the-badge)
-  ![Scipy](https://img.shields.io/badge/Scipy-white?logo=Scipy&logoColor=black&style=for-the-badge)
-  ![Seaborn](https://img.shields.io/badge/Seaborn-white?logo=python&style=for-the-badge)
-  ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-white?logo=matplotlib&logoColor=beige&style=for-the-badge)
-  ![Jupyter_notebook](https://img.shields.io/badge/Jupyter_notebook-white?logo=Jupyter&style=for-the-badge)
-  ![Airflow](https://img.shields.io/badge/Airflow-white?style=for-the-badge&logo=Apache%20Airflow&logoColor=black)
-  ![Github](https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge)
-  ![Tableau](https://img.shields.io/badge/Tableau-white?logo=Tableau&logoColor=black&style=for-the-badge)
-  ![Superset](https://img.shields.io/badge/Superset-white?style=for-the-badge&logo=Apache%20Superset&logoColor=black)
+  ![SQL](https://img.shields.io/badge/SQL-e6f7f9?style=for-the-badge&logo=SQL)
+  ![ClickHouse](https://img.shields.io/badge/ClickHouse-e6f7f9?logo=ClickHouse&style=for-the-badge)
+  ![Redash](https://img.shields.io/badge/redash-e6f7f9?logo=redash&logoColor=black&style=for-the-badge)
+  ![Python](https://img.shields.io/badge/python-e6f7f9?logo=python&style=for-the-badge)
+  ![Pandas](https://img.shields.io/badge/pandas-e6f7f9?logo=pandas&logoColor=blue&style=for-the-badge)
+  ![Numpy](https://img.shields.io/badge/numpy-e6f7f9?logo=numpy&logoColor=blue&style=for-the-badge)
+  ![Plotly](https://img.shields.io/badge/plotly-e6f7f9?logo=plotly&logoColor=blue&style=for-the-badge)
+  ![Scipy](https://img.shields.io/badge/Scipy-e6f7f9?logo=Scipy&logoColor=black&style=for-the-badge)
+  ![Seaborn](https://img.shields.io/badge/Seaborn-e6f7f9?logo=python&style=for-the-badge)
+  ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-e6f7f9?logo=matplotlib&logoColor=beige&style=for-the-badge)
+  ![Jupyter_notebook](https://img.shields.io/badge/Jupyter_notebook-e6f7f9?logo=Jupyter&style=for-the-badge)
+  ![Airflow](https://img.shields.io/badge/Airflow-e6f7f9?style=for-the-badge&logo=Apache%20Airflow&logoColor=black)
+  ![Github](https://img.shields.io/badge/github-e6f7f9?logo=github&logoColor=black&style=for-the-badge)
+  ![Tableau](https://img.shields.io/badge/Tableau-e6f7f9?logo=Tableau&logoColor=black&style=for-the-badge)
+  ![Superset](https://img.shields.io/badge/Superset-e6f7f9?style=for-the-badge&logo=Apache%20Superset&logoColor=black)
 
 </div>
 
