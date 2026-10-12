@@ -43,7 +43,7 @@
 <div align="center">
   
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lanssiv)
-[![Gmail](https://img.shields.io/badge/Gmail-C5221F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mssvetlanazhukv@gmail.con)
+[![Gmail](https://img.shields.io/badge/Gmail-C5221F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mssvetlanazhuk@gmail.con)
 [![Вконтакте](https://img.shields.io/badge/Вконтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.ru/s_zhukovskaya)
 
 </div>
