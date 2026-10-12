@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align='center'>
+<h1>
+ Привет, меня зовут Светлана 👋
+</h1>
+  
+<div align="left">
+  
+Аналитик данных с инженерным бэкграундом.
 
-<!--
-**lansi-zh/lansi-zh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Интерес к анализу данных появился у меня во время учёбы на инженера-эколога. Во время своей экологической практики, работая с данными о химических веществах, я поняла, что меня сильно увлекает всё, что связано с данными, например, их предобработка, анализ, а также поиск закономерностей. 
 
-Here are some ideas to get you started:
+- Для меня важно, чтобы анализ не ограничивался только сухими цифрами и графиками, а помогал бизнесу лучше понимать своих клиентов, и, помимо этого, повышать эффективность процессов за счёт принятия аналитически обоснованных решений.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Перешла в аналитику после работы в сфере профессиональной ретуши, благодаря которой научилась отлично понимать желания заказчика и находить решения, которые соответствуют его ожиданиям.
+  
+- Увлекаюсь коллекционированием растений, люблю активный отдых.
+
+
+
+<h2>Языки и инструменты</h2>
+
+<div align="center">
+  
+  ![SQL](https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=SQL)
+  ![ClickHouse](https://img.shields.io/badge/ClickHouse-white?logo=ClickHouse&style=for-the-badge)
+  ![Redash](https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge)
+  ![Python](https://img.shields.io/badge/python-white?logo=python&style=for-the-badge)
+  ![Pandas](https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge)
+  ![Numpy](https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue&style=for-the-badge)
+  ![Plotly](https://img.shields.io/badge/plotly-white?logo=plotly&logoColor=blue&style=for-the-badge)
+  ![Scipy](https://img.shields.io/badge/Scipy-white?logo=Scipy&logoColor=black&style=for-the-badge)
+  ![Seaborn](https://img.shields.io/badge/Seaborn-white?logo=python&style=for-the-badge)
+  ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-white?logo=matplotlib&logoColor=beige&style=for-the-badge)
+  ![Jupyter_notebook](https://img.shields.io/badge/Jupyter_notebook-white?logo=Jupyter&style=for-the-badge)
+  ![Airflow](https://img.shields.io/badge/Airflow-white?style=for-the-badge&logo=Apache%20Airflow&logoColor=black)
+  ![Github](https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge)
+  ![Tableau](https://img.shields.io/badge/Tableau-white?logo=Tableau&logoColor=black&style=for-the-badge)
+  ![Superset](https://img.shields.io/badge/Superset-white?style=for-the-badge&logo=Apache%20Superset&logoColor=black)
+
+</div>
+
+<h2>Контакты</h2>
+<div align="center">
+  
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lanssiv)
+[![Gmail](https://img.shields.io/badge/Gmail-C5221F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mssvetlanazhukv@gmail.con)
+[![Вконтакте](https://img.shields.io/badge/Вконтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.ru/s_zhukovskaya)
+
+</div>
